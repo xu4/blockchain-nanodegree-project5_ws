@@ -1,0 +1,16 @@
+{
+  "name": "RESTful-Web-API-with-NodeJS-Framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chen Xu",
+  "license": "GNU GPLv3.0",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "web3": "^0.20.1"
+  }
+}
